@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "usuario": "admin",
+        "contrasena": "1234",
+        "nombre": "Administrador",
+        "rol": "Administrador"
+    },
+    {
+        "id": 2,
+        "usuario": "mesero",
+        "contrasena": "1234",
+        "nombre": "Mesero",
+        "rol": "Empleado"
+    },
+    {
+        "id": 3,
+        "usuario": "cliente",
+        "contrasena": "1234",
+        "nombre": "Cliente Frecuente",
+        "rol": "Cliente"
+    }
+]

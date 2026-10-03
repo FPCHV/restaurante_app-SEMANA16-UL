@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hamburguesa Clásica",
+        "precio": 5.5,
+        "cantidad": 20
+    },
+    {
+        "id": 2,
+        "nombre": "Pizza Personal",
+        "precio": 7.0,
+        "cantidad": 15
+    },
+    {
+        "id": 3,
+        "nombre": "Ensalada César",
+        "precio": 4.75,
+        "cantidad": 12
+    },
+    {
+        "id": 4,
+        "nombre": "Jugo Natural",
+        "precio": 2.25,
+        "cantidad": 30
+    }
+]
